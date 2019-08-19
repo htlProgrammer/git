@@ -2,6 +2,6 @@ package zion;
 
 public class Test1 {
 	public static void main(String[] args) {
-		System.out.println("第一次进行git实验");
+		System.out.println("绗竴娆it鎿嶄綔");
 	}
 }
